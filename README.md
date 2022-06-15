@@ -10,4 +10,4 @@ Project structure for writing smart contracts in Rust for NEAR Protocol
 
 # Authors
 
-- Jacob Lindahl <jacob@near.foundation> [@sudo_build](https://twitter.com/sudo_build)
+- Clyde Ahoya | Software Engineer
